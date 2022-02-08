@@ -8,20 +8,25 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\307-P\\.nuget\\packages\\": {}
+    "C:\\Users\\gariev\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\307-P\\Desktop\\testRepo\\testApp\\testApp\\testApp.csproj",
+      "projectUniqueName": "C:\\Users\\gariev\\Desktop\\use\\testRepo\\testApp\\testApp\\testApp.csproj",
       "projectName": "testApp",
-      "projectPath": "C:\\Users\\307-P\\Desktop\\testRepo\\testApp\\testApp\\testApp.csproj",
-      "packagesPath": "C:\\Users\\307-P\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\307-P\\Desktop\\testRepo\\testApp\\testApp\\obj\\",
+      "projectPath": "C:\\Users\\gariev\\Desktop\\use\\testRepo\\testApp\\testApp\\testApp.csproj",
+      "packagesPath": "C:\\Users\\gariev\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gariev\\Desktop\\use\\testRepo\\testApp\\testApp\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\307-P\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\gariev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -55,12 +60,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
